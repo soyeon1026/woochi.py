@@ -1,4 +1,4 @@
-# 🌀 Jeon Woo-chi Hacker Toolkit (전우치 해커 툴킷)
+# 🌀 Woo-chi Hacker Toolkit (전우치 해커 툴킷)
 
 조선의 도사 '전우치'의 도술을 현대적인 파이썬 기술로 재해석한 프로젝트입니다.
 
